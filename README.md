@@ -1,3 +1,3 @@
-# Pasta Matrix Record-Keeping and Analysis.
+# Pasta Matrix Analysis.
 
 MATLAB scripts for recording and analyzing pasta matrix data.
